@@ -9,15 +9,15 @@ Laker.remove({})
             name: "Kostas Antetokounmpo",
             number: 37,
             position: "Power Forward",
-            gamesPlayed: 43,
+            gamesPlayed: 7,
             points: 456,
             fieldGoals: 174,
-            height: "6'6",
+            height: "6'10",
             dob: "11/20/1997",
             age: 22,
             weight: "200lbs",
-            hometown: "Los Angeles, CA",
-            image: ("")
+            hometown: "Dayton",
+            image: ("https://i.imgur.com/VSKMss9.png")
         },
         {
             name: "Thomas Byrant",
