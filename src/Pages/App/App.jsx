@@ -40,7 +40,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Link to="/"><img src="https://i.imgur.com/lFU66dY.png"/></Link>
+        <Link to="/"><img src="https://i.imgur.com/iavEUII.png"/></Link>
         <h2 className="Roster">2017-2018 Roster</h2>
         <Switch>
           <Route exact path='/' render={() =>
