@@ -1,0 +1,13 @@
+div {
+    display: inline-block;
+}
+
+.Img {
+    height: 250px;
+    width: 350px;
+    text-decoration: none;
+}
+
+.Name {
+    color: #F4A80B;
+}

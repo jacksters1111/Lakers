@@ -1,0 +1,19 @@
+* {
+  text-align: center;
+  background: url(https://i.imgur.com/iexs8QR.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #5D1688;
+}
+
+img {
+  height: 200px;
+  width: 450px;
+  padding: 10px;
+}
+
+.Roster {
+  color: #F4A80B;
+  font-size: 30px;
+}
