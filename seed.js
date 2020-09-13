@@ -6,18 +6,18 @@ Laker.remove({})
 .then(function() {
     return Laker.create([
         {
-            name: "Lonzo Ball",
-            number: 2,
-            position: "Guard",
+            name: "Kostas Antetokounmpo",
+            number: 37,
+            position: "Power Forward",
             gamesPlayed: 43,
             points: 456,
             fieldGoals: 174,
             height: "6'6",
-            dob: "10/27/1997",
-            age: 20,
-            weight: "190lbs",
+            dob: "11/20/1997",
+            age: 22,
+            weight: "200lbs",
             hometown: "Los Angeles, CA",
-            image: ("https://i.imgur.com/bI4epIl.png")
+            image: ("")
         },
         {
             name: "Thomas Byrant",
