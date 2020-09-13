@@ -59,7 +59,7 @@ Laker.remove({})
             age: 24,
             weight: "186lbs",
             hometown: "College Station, Texas",
-            image: ("https://i.imgur.com/H80hZ8F.png")
+            image: ("https://i.imgur.com/Mew6c4c.png")
         },
         {
             name: "Luol Deng",
