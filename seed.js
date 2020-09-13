@@ -45,7 +45,7 @@ Laker.remove({})
             age: 25,
             weight: "205lbs",
             hometown: "Greenville, Georgia",
-            image: ("https://i.imgur.com/APSZkUA.png")
+            image: ("https://i.imgur.com/SWv0V6L.png")
         },
         {
             name: "Alex Caruso",
